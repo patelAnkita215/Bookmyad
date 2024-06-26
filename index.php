@@ -7,7 +7,7 @@
 
         <div class="row">
 
-            <div class="col-md-6">
+            <div class="col-lg-6">
 
                 <h3 data-aos="fade-right">Everything you Need for</h3>
 
@@ -48,12 +48,40 @@
                         <p>Performance <br>Marketing</p>
 
                     </li>
+                    <li data-aos="fade-up" data-aos-delay="1200" data-aos-offset="0">
+
+                        <img src="assets/images/pressrelease.png">
+
+                        <p>Press Release <br>Service</p>
+
+                    </li>
+                    <li data-aos="fade-up" data-aos-delay="1500" data-aos-offset="0">
+
+                        <img src="assets/images/influencer-marketing.png">
+
+                        <p>Influencer <br>Marketing</p>
+
+                    </li>
+                    <li data-aos="fade-up" data-aos-delay="1800" data-aos-offset="0">
+
+                        <img src="assets/images/Media-Buying.png">
+
+                        <p>Media Buying <br>(CPM & CPC)</p>
+
+                    </li>
+                    <li data-aos="fade-up" data-aos-delay="2100" data-aos-offset="0">
+
+                        <img src="assets/images/advert-icon.png">
+
+                        <p>Ads on OTT <br>Platforms</p>
+
+                    </li>
 
                 </ul>
 
             </div>
 
-            <div class="col-md-6 d-flex justify-content-center align-items-center">
+            <div class="col-lg-6 d-flex justify-content-center align-items-center">
 
                 <div class="bnrform" data-aos="fade-left">
 
@@ -68,22 +96,29 @@
 
                             <li><input name="number" type="number" placeholder="Phone Number*" required></li>
                             <li><select name="service" required>
-
                                     <option value="">Select Service*</option>
-                                    <option value="Content Marketing">Content Marketing</option>
+                                    <option value="Performance Marketing (D2C)">Performance Marketing (D2C)</option>
 
-                                    <option value="Social Media Marketing">Social Media Marketing</option>
+                                    <option value="Performance Marketing (B2B)">Performance Marketing (B2B)</option>
 
-                                    <option value="Campaigning">Campaigning</option>
+                                    <option value="Creative & Content Marketing">Creative & Content Marketing</option>
 
-                                    <option value="Search Engine Optimization">Search Engine Optimization</option>
+                                    <option value="Search Engine Optimisation (SEO)">Search Engine Optimisation (SEO)
+                                    </option>
 
-                                    <option value="PPC">PPC</option>
-
-                                    <option value="Conversion Rate Optimisation">Conversion Rate Optimisation</option>
-
-                                    <option value="Performance Marketing">Performance Marketing</option>
-
+                                    <option value="Social Media Marketing (SMM)">Social Media Marketing (SMM)</option>
+                                    <option value="Press Release Services (News Article)">Press Release Services (News
+                                        Article)</option>
+                                    <option value="Influencer Marketing & Management">Influencer Marketing & Management
+                                    </option>
+                                    <option value="Media Buying (CPM & CPC)">Media Buying (CPM & CPC)</option>
+                                    <option value="Ads on OTT Platforms">Ads on OTT Platforms</option>
+                                    <option value="Sponsorship & Media rights for Movies">Sponsorship & Media rights for
+                                        Movies</option>
+                                    <option value="Hyperlocal ads & branding solutions">Hyperlocal ads & branding
+                                        solutions</option>
+                                    <option value="Expos & Events (With Kiosks & Stalls)">Expos & Events (With Kiosks &
+                                        Stalls)</option>
 
                                 </select></li>
 
@@ -127,42 +162,72 @@
 
                     <ul>
 
-                        <li data-aos="zoom-in"><img src="assets/images/brand01.png"></li>
+                        <li data-aos="zoom-in"><img src="assets/images/client/brand-1.jpg"></li>
 
                         <li data-aos="zoom-in" data-aos-delay="100" data-aos-offset="0"><img
-                                src="assets/images/brand02.png">
+                                src="assets/images/client/brand-2.jpg">
                         </li>
 
                         <li data-aos="zoom-in" data-aos-delay="200" data-aos-offset="0"><img
-                                src="assets/images/brand03.png">
+                                src="assets/images/client/brand-3.jpg">
                         </li>
 
                         <li data-aos="zoom-in" data-aos-delay="300" data-aos-offset="0"><img
-                                src="assets/images/brand04.png">
+                                src="assets/images/client/brand-4.jpg">
                         </li>
 
                         <li data-aos="zoom-in" data-aos-delay="400" data-aos-offset="0"><img
-                                src="assets/images/brand05.png">
+                                src="assets/images/client/brand-5.jpg">
                         </li>
 
                         <li data-aos="zoom-in" data-aos-delay="500" data-aos-offset="0"><img
-                                src="assets/images/brand06.png">
+                                src="assets/images/client/brand-6.jpg">
                         </li>
 
                         <li data-aos="zoom-in" data-aos-delay="600" data-aos-offset="0"><img
-                                src="assets/images/brand07.png">
+                                src="assets/images/client/brand-7.jpg">
                         </li>
 
                         <li data-aos="zoom-in" data-aos-delay="700" data-aos-offset="0"><img
-                                src="assets/images/brand08.png">
+                                src="assets/images/client/brand-8.jpg">
                         </li>
 
                         <li data-aos="zoom-in" data-aos-delay="800" data-aos-offset="0"><img
-                                src="assets/images/brand09.png">
+                                src="assets/images/client/brand-9.jpg">
                         </li>
 
                         <li data-aos="zoom-in" data-aos-delay="900" data-aos-offset="0"><img
-                                src="assets/images/brand010.png">
+                                src="assets/images/client/brand-10.jpg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1000" data-aos-offset="0"><img
+                                src="assets/images/client/brand-11.jpg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1100" data-aos-offset="0"><img
+                                src="assets/images/client/brand-12.jpg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1200" data-aos-offset="0"><img
+                                src="assets/images/client/brand-13.jpg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1300" data-aos-offset="0"><img
+                                src="assets/images/client/brand-14.jpg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1400" data-aos-offset="0"><img
+                                src="assets/images/client/brand-15.jpg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1500" data-aos-offset="0"><img
+                                src="assets/images/client/brand-16.jpg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1600" data-aos-offset="0"><img
+                                src="assets/images/client/brand-17.jpg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1700" data-aos-offset="0"><img
+                                src="assets/images/client/brand-18.jpeg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1800" data-aos-offset="0"><img
+                                src="assets/images/client/brand-19.jpeg">
+                        </li>
+                        <li data-aos="zoom-in" data-aos-delay="1900" data-aos-offset="0"><img
+                                src="assets/images/client/brand-20.jpeg">
                         </li>
 
                     </ul>
@@ -203,54 +268,11 @@
         </div>
 
         <div class="row">
-
-            <div class="col-md-4 col-xs-6" data-aos="fade-up">
-
-                <div class="wishinbox01">
-
-                    <img src="assets/images/icon01.png">
-
-                    <h3>96% retention Rate</h3>
-
-                    <p>We guarantee results with customized solutions to fit your budget and marketing goals!</p>
-
-                </div>
-
-            </div>
-
-            <div class="col-md-4 col-xs-6" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">
+            <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up">
 
                 <div class="wishinbox01">
 
-                    <img src="assets/images/icon02.png">
-
-                    <h3>4K+ Happy Clients</h3>
-
-                    <p>We turn Advertising into Profit! Get More Traffic, Leads and Sales</p>
-
-                </div>
-
-            </div>
-
-            <div class="col-md-4 col-xs-6" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0">
-
-                <div class="wishinbox01">
-
-                    <img src="assets/images/icon03.png">
-
-                    <h3>100K+ keyword optimised</h3>
-
-                    <p>Let's take you from “HOW” to “WOW”.</p>
-
-                </div>
-
-            </div>
-
-            <div class="col-md-4 col-xs-6" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0">
-
-                <div class="wishinbox01">
-
-                    <img src="assets/images/icon04.png">
+                    <img src="assets/images/icon04.png" width="80px">
 
                     <h3>150+ Creative campaigns</h3>
 
@@ -260,11 +282,25 @@
 
             </div>
 
-            <div class="col-md-4 col-xs-6" data-aos="fade-up" data-aos-delay="800" data-aos-offset="0">
+            <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">
 
                 <div class="wishinbox01">
 
-                    <img src="assets/images/icon05.png">
+                    <img src="assets/images/icon03.png" width="80px">
+
+                    <h3>100K+ keyword optimised</h3>
+
+                    <p>Let's take you from “HOW” to “WOW”.</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0">
+
+                <div class="wishinbox01">
+
+                    <img src="assets/images/icon05.png" width="80px">
 
                     <h3>$2 Millions Paid Budget Managed</h3>
 
@@ -273,17 +309,44 @@
                 </div>
 
             </div>
-
-            <div class="col-md-4 col-xs-6" data-aos="fade-up" data-aos-delay="1000" data-aos-offset="0">
+            <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0">
 
                 <div class="wishinbox01">
 
-                    <img src="assets/images/icon06.png">
+                    <img src="assets/images/icon01.png" width="70px">
+
+                    <h3>96% retention Rate</h3>
+
+                    <p>We guarantee results with customized solutions to fit your budget and marketing goals!</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="800" data-aos-offset="0">
+
+                <div class="wishinbox01">
+
+                    <img src="assets/images/icon06.png" width="70px">
 
                     <h3>Scale your business ROI - 100%</h3>
 
                     <p>A leading and the most cost-effective one-stop digital marketing company that adapts, innovates,
                         and delivers.</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="1000" data-aos-offset="0">
+
+                <div class="wishinbox01">
+
+                    <img src="assets/images/icon02.png" width="70px">
+
+                    <h3>4K+ Happy Clients</h3>
+
+                    <p>We turn Advertising into Profit! Get More Traffic, Leads and Sales</p>
 
                 </div>
 
@@ -312,7 +375,7 @@
 
         <div class="row">
 
-            <div class="col-md-3 mobileshow" data-aos="fade-left">
+            <div class="col-xl-3 col-lg-12 col-md-12 col-12 mobileshow" data-aos="fade-left">
 
                 <div class="servicebox0001hed">
 
@@ -324,11 +387,11 @@
 
             </div>
 
-            <div class="col-md-3" data-aos="fade-right">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-12" data-aos="fade-right">
 
                 <div class="servicebox0001">
 
-                    <img src="assets/images/service-icon01.png">
+                    <img src="assets/images/reach-icon05.png">
 
                     <h3>Performance <br>Marketing</h3>
 
@@ -339,7 +402,7 @@
 
             </div>
 
-            <div class="col-md-3" data-aos="fade-right">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-12" data-aos="fade-right">
 
                 <div class="servicebox0001">
 
@@ -352,8 +415,19 @@
                 </div>
 
             </div>
+            <div class="col-xl-6 col-lg-4 col-md-6 col-12 desktopshow" data-aos="fade-left">
 
-            <div class="col-md-3" data-aos="fade-left">
+                <div class="servicebox0001hed">
+
+                    <h3>Our <br>Services</h3>
+
+                    <p>Make your marketing more efficient</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6 col-12" data-aos="fade-left">
 
                 <div class="servicebox0001">
 
@@ -367,19 +441,9 @@
 
             </div>
 
-            <div class="col-md-3 desktopshow" data-aos="fade-left">
 
-                <div class="servicebox0001hed">
 
-                    <h3>Our <br>Services</h3>
-
-                    <p>Make your marketing more efficient</p>
-
-                </div>
-
-            </div>
-
-            <div class="col-md-3" data-aos="fade-right">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-12" data-aos="fade-right">
 
                 <div class="servicebox0001">
 
@@ -393,7 +457,7 @@
 
             </div>
 
-            <div class="col-md-3" data-aos="fade-right">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-12" data-aos="fade-right">
 
                 <div class="servicebox0001">
 
@@ -407,7 +471,7 @@
 
             </div>
 
-            <div class="col-md-3" data-aos="fade-left">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-12" data-aos="fade-left">
 
                 <div class="servicebox0001">
 
@@ -421,7 +485,7 @@
 
             </div>
 
-            <div class="col-md-3" data-aos="fade-left">
+            <!-- <div class="col-xl-3 col-lg-4 col-md-6 col-12" data-aos="fade-left">
 
                 <div class="servicebox0001">
 
@@ -433,7 +497,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
             <div class="col-md-12">
                 <div class="btnhover" data-aos="fade-up"><a href="#">Pick the services your business requires</a></div>
@@ -532,37 +596,137 @@
 
                 <div class="testislider" data-aos="fade-up">
 
+                    <!-- <div class='sk-ww-google-reviews' data-embed-id='163604'></div> -->
+
                     <div class="owl-carousel owl-theme testislide">
                         <div class="item">
                             <div class="testivideotext">
-                                <div class="testivideotextface"><img src="assets/images/pankaj.png"></div>
-                                <p>"It’s been a delight to work with New Vision Digital. Their intelligence,
-                                    professionalism, and strategy to generate traffic and profitable leads have worked
-                                    well for our brand."</p>
+                                <!-- <div class="testivideotextface"><img src="assets/images/pankaj.png"></div> -->
+                                <p>"The BookMyAd team is professional, efficient, & helpful. They are prompt with their
+                                    work & meet deadlines. The whole team is accessible at any point in time. They are
+                                    the best in the market to work with."</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3 class="mb-md-0">Mr. Jain<strong>Mount Litera Zee School Arah</strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Nirbhay.png"></div> -->
+                                <p>"They were responsive, proactive, and overall great to work with. They were very
+                                    patient- listening & understanding my needs & then making necessary changes."</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mansi Dubey<strong></strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Basant.png"></div> -->
+                                <p>"On behalf of management, I would like to thank you BookMyAd Team who have done good
+                                    work on Lead generation campaigns. I appreciate their hard work and dedication
+                                    towards this project, which helped me in achieving my business goals last month.
+                                    Thanks. Keep it up!"</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mr. Abhishek<strong>Frontier Group</strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Basant.png"></div> -->
+                                <p>"They are the best partner you can have for PPC ads, honest and passionate. Their
+                                    active communication and readiness to address any issues ensured successful
+                                    collaboration."</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mr. Azhar<strong>BMW – Raipur, Nagpur</strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Basant.png"></div> -->
+                                <p>"We took the services from BookMyAd and found it was superb. The responsiveness and
+                                    professionalism of BookMyAd Lead Generation Team truly impressed me."</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mr. Harsh<strong>Gurgaon</strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Basant.png"></div> -->
+                                <p>"BookMyAd helped me achieve a 10X ROAS with an absolute minimum spend. We found BMA
+                                    as a brilliant brand partner and an agency for us in the past year."</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mr. Devendra<strong>SMS Lucknow</strong> </h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Basant.png"></div> -->
+                                <p>"The experience of working with BookMyAd has set the benchmark, as far as I am
+                                    concerned, with respect to the ways they service clients. I have worked with many
+                                    agencies in the past, and I found them to be the best."</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mr. Akshaya<strong>Ghaziabad</strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Basant.png"></div> -->
+                                <p>"I would like to thank the BookMyAd Team who have done very good work with great
+                                    understanding of work and top results. We are really happy to meet you on the
+                                    internet. One more time thanks again and wishing you success in your further work."
+                                </p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mr. Laksh<strong>PCDN</strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Basant.png"></div> -->
+                                <p>"The best thing about working with BookMyAd is the attention to detail that you get
+                                    from them. There is a lot of effort put into the campaigns by them to ensure that
+                                    the targeting is right to optimize for maximum sales and profit."</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mr. Chaudhary<strong>Global Star</strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testivideotext">
+                                <!-- <div class="testivideotextface"><img src="assets/images/Basant.png"></div> -->
+                                <p>"BookMyAd has helped us around structuring our campaigns and strategies round
+                                    reaching out to the customer. We have seen a remarkable improvement around the
+                                    relevant ads that we have received in the past 1 year."</p>
+                                <div
+                                    class="d-flex align-items-start justify-content-between client-detail flex-md-row flex-column">
+                                    <h3>Mr. Ravi Patel<strong></strong></h3>
+                                    <span><img src="assets/images/star.png"></span>
+                                </div>
 
-                                <h3>Mr. Pankaj Agarwal<strong>Director, Bikanervala Foods Pvt Ltd, Dubai</strong>
-                                    <span><img src="assets/images/star.png"></span></h3>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testivideotext">
-                                <div class="testivideotextface"><img src="assets/images/Nirbhay.png"></div>
-                                <p>"New Vision Digital delivers lucrative results, works swiftly, and understands the
-                                    bigger picture. The diligent team helped guide our web strategy and drive in the
-                                    results for us. We are fortunate to consider them our
-                                    long-term digital partners. "</p>
-                                <h3>Mr. Nirbhay Kataria<strong>Founder & CEO - Giant Migration.</strong> <span><img
-                                            src="assets/images/star.png"></span></h3>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testivideotext">
-                                <div class="testivideotextface"><img src="assets/images/Basant.png"></div>
-                                <p>"Great job by the team at New Vision Digital! They had ideas and suggestions that
-                                    have benefited my business. I’m happy with our Google Presence and look forward to a
-                                    long and fruitful relationship with NVD."</p>
-                                <h3>Mr. Basant Chawla<strong>Owner, Fun n Food Village.</strong> <span><img
-                                            src="assets/images/star.png"></span></h3>
                             </div>
                         </div>
                     </div>
@@ -573,8 +737,80 @@
     </div>
 </div>
 
+<div class="secion006 home-digital-pr">
+    <div class="container">
+        <div class="heading01" data-aos="fade-up">
 
-<section class="location-section">
+            <h3>As featured in</h3>
+
+            <h4>India's Leading Publications</h4>
+
+        </div>
+        <div class="owl-carousel owl-theme digital-pr">
+            <div class="card">
+                <a class="effect effect-detail"
+                    href="https://www.hindustantimes.com/brand-stories/bookmyadcom-relaunches-with-enhanced-services-and-user-experience-101693231608183.html"
+                    target="_blank">
+                    <img src="assets/images/ht.jpg" class="img-fluid">
+                </a>
+            </div>
+            <div class="card">
+
+                <a class="effect effect-detail"
+                    href="https://www.business-standard.com/content/press-releases-ani/the-revolutionary-self-serve-ad-booking-platform-bookmyad-com-relaunches-with-enhanced-services-and-user-experience-123090700958_1.html"
+                    target="_blank">
+                    <img src="assets/images/business_standard.jpg"
+                        class="img-fluid">
+
+                </a>
+
+
+            </div>
+            <div class="card">
+                <a class="effect effect-detail"
+                    href="https://theprint.in/ani-press-releases/the-revolutionary-self-serve-ad-booking-platform-bookmyad-com-relaunches-with-enhanced-services-and-user-experience/1750917/"
+                    target="_blank"> <img src="assets/images/280x100.png"
+                        class="img-fluid">
+                </a>
+
+
+            </div>
+            <div class="card">
+
+                <a class="effect effect-detail"
+                    href="https://m.dailyhunt.in/news/india/english/hello+entrepreneurs-epaper-dhc4bd36087cec49cd9f75d3d1f8df3a02/the+revolutionary+selfserve+ad+booking+platform+bookmyadcom+relaunches+with+enhanced+services+and+user+experience-newsid-dhc4bd36087cec49cd9f75d3d"
+                    target="_blank"> <img src="assets/images/DH.png"
+                        class="img-fluid">
+                </a>
+
+
+            </div>
+            <div class="card">
+                <a class="effect effect-detail"
+                    href="https://www.zee5.com/articles/the-revolutionary-self-serve-ad-booking-platform-bookmyad-com-relaunches-with-enhanced-services-and-user-experience"
+                    target="_blank"> <img src="assets/images/280x100_zee.png"
+                        class="img-fluid">
+                </a>
+
+
+            </div>
+            <div class="card">
+
+                <a class="effect effect-detail"
+                    href="https://helloentrepreneurs.com/business/the-revolutionary-self-serve-ad-booking-platform-bookmyad-com-relaunches-with-enhanced-services-and-user-experience-26526/"
+                    target="_blank"> <img src="assets/images/he.png"
+                        class="img-fluid">
+                </a>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<section class="location-section" id="contactus">
     <div class="container">
         <div class="workteam01 row">
 
@@ -582,7 +818,8 @@
 
             <div class="col-md-6" data-aos="fade-left">
 
-                <h3>Ready to take the next step? <strong>Hop on a free discovery call and get meaningful insights and growth strategies.</strong></h3>
+                <h3>Ready to take the next step? <strong>Hop on a free discovery call and get meaningful insights and
+                        growth strategies.</strong></h3>
 
                 <a href="#">Let’s Talk!</a>
 
@@ -606,6 +843,7 @@
                                 Pradesh
                                 201301, IN
                             </p>
+                            <p><b>+91 8800337036</b></p>
 
                         </li>
 
@@ -634,6 +872,7 @@
                             <p><strong>United States</strong>473 Mundet Place, <br>Ste. US632049, Hillside,
                                 <br>New Jersey 07205, United States
                             </p>
+                            <p><b>+12067592428</b></p>
                         </li>
 
                         <!-- <li class="australia" data-aos="zoom-in" data-aos-delay="500" data-aos-offset="0">

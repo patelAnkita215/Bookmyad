@@ -1,4 +1,8 @@
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THNPWBD" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <header>
 
@@ -6,7 +10,7 @@
 
             <div class="row align-items-center">
 
-                <div class="col-xxl-3 col-lg-2 col-md-3 col-5">
+                <div class="col-xxl-3 col-lg-2 col-md-3 col-4">
 
                     <div class="logo01">
                         <a href="#"><img src="assets/images/logo.png" width="140px"></a>
@@ -14,7 +18,7 @@
 
                 </div>
 
-                <div class="col-xxl-9 col-lg-10 col-md-9 col-7">
+                <div class="col-xxl-9 col-lg-10 col-md-9 col-8">
 
                     <div class="topright01">
 
@@ -35,8 +39,8 @@
                         </ul>
 
                         <div class="topcall">
-                            <a href="tel:+918800334456"><span class="red-color"><i
-                                        class="fas fa-phone-volume"></i></span> +91 8800 33 4456</a>
+                            <a href="tel:+918800337036"><span class="red-color"><i
+                                        class="fas fa-phone-volume"></i></span> +91 8800337036</a>
                         </div>
 
                         <div class="header_in">

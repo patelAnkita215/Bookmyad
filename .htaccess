@@ -1,2 +1,3 @@
 RewriteEngine On 
 RewriteRule ^index$ index.php
+RewriteRule ^thankyou$ thankyou.php

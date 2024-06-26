@@ -1,111 +1,4 @@
-<!-- <footer id="contactus">
-
-  <div class="container">
-
-    <div class="row">
-
-      <div class="workteam01">
-
-        <div class="col-md-6" data-aos="fade-right"><img src="assets/images/workwith.png"></div>
-
-        <div class="col-md-6" data-aos="fade-left">
-
-          <h3>Work with your dream team and <strong>Speed Up Your <br>Business Growth</strong></h3>
-
-          <a href="#">Let’s Talk!</a>
-
-        </div>
-
-      </div>
-
-    </div>
-
-    <div class="row">
-
-      <div class="col-md-12">
-
-        <div class="fotlocation01">
-
-          <h3 data-aos="fade-up">Our Locations</h3>
-
-          <ul>
-            <li class="noida" data-aos="zoom-in" data-aos-delay="300" data-aos-offset="0">
-
-              <span class="location-icon"><i class="fa-solid fa-location-dot"></i></span>
-
-              <p><strong>Noida</strong>Udyog Marg, C 89 c, <br>2nd Floor, Sector 8, Noida, <br>Uttar Pradesh 201301, IN
-              </p>
-
-            </li>
-
-            <li class="dubai" data-aos="zoom-in" data-aos-delay="100" data-aos-offset="0">
-
-              <span class="location-icon"><i class="fa-solid fa-location-dot"></i></span>
-
-              <p><strong>Dubai</strong>The Curve Building, M-46, Mezzanine floor Plot No. 358-574 - Sheikh Zayed Rd, Al
-                Quoz 3, PO Box No. - 391048, Dubai, United Arab Emirates</p>
-
-            </li>
-
-            <li class="england" data-aos="zoom-in" data-aos-delay="200" data-aos-offset="0">
-
-              <span class="location-icon"><i class="fa-solid fa-location-dot"></i></span>
-
-              <p><strong>England</strong>42 Brunswick Terrace, <br>Hove, East Sussex BN3 <br>1HA, GB</p>
-
-            </li>
-
-            <li class="unitedtate" data-aos="zoom-in" data-aos-delay="400" data-aos-offset="0">
-
-              <span class="location-icon"><i class="fa-solid fa-location-dot"></i></span>
-
-              <p><strong>United States</strong>1317 Edgewater Dr, <br>Suite 897, Orlando, Florida <br>32804, US</p>
-
-            </li>
-
-            <li class="australia" data-aos="zoom-in" data-aos-delay="500" data-aos-offset="0">
-
-              <span class="location-icon"><i class="fa-solid fa-location-dot"></i></span>
-
-              <p><strong>Australia</strong>83 York St, Suite 109, Level 1, <br>Sydney, New South Wales <br>2000, AU</p>
-
-            </li>
-
-          </ul>
-
-        </div>
-
-      </div>
-
-    </div>
-
-    <div class="row">
-
-      <div class="partne01">
-
-        <div class="col-md-4">
-          <p>New Vision Digital is an innovative online marketing agency offering a myriad of integrated web marketing
-            services to business across the world</p>
-        </div>
-
-        <div class="col-md-8"><img src="assets/images/partner01.png"><img src="assets/images/partner02.png"><img
-            src="assets/images/partner03.png"></div>
-
-        <div class="col-md-12">
-          <h3>© 2021 All Rights Reserved</h3>
-        </div>
-
-      </div>
-
-    </div>
-
-  </div>
-
-</footer> -->
-<!-- Footer start -->
 <footer>
-
-
     <div class="container">
         <div class="row">
             <div class="col-lg-2 col-md-3 col-sm-6">
@@ -165,9 +58,9 @@
                 <div class="footer-contact-details">
                     <ul>
                         <li class="phone">
-                            <a href="tel:+91 8800 33 4456">
+                            <a href="tel:+918800337036">
                                 <p>Call Us</p>
-                                <h4>+91 8800 33 4456</h4>
+                                <h4>+91 8800337036</h4>
                                 <p>(TIME 10AM - 07PM)</p>
                                 <p>(Monday to Saturday)</p>
                             </a>
@@ -236,15 +129,15 @@
                             </div>
                         </form>
                     </div>
-                    <script type="text/javascript"
+                    <!-- <script type="text/javascript"
                         src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
                     <script
-                        type="text/javascript">(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; fnames[3] = 'ADDRESS'; ftypes[3] = 'address'; fnames[4] = 'PHONE'; ftypes[4] = 'phone'; fnames[5] = 'BIRTHDAY'; ftypes[5] = 'birthday'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+                        type="text/javascript">(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; fnames[3] = 'ADDRESS'; ftypes[3] = 'address'; fnames[4] = 'PHONE'; ftypes[4] = 'phone'; fnames[5] = 'BIRTHDAY'; ftypes[5] = 'birthday'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script> -->
                 </div>
             </div>
         </div>
         <div class="row mt-4">
-            <div class="col-lg-6 col-12">
+            <div class="col-lg-5 col-12">
                 <h4>Payment method</h4>
                 <ul class="payment-list">
                     <li><a href="https://www.bookmyad.com/quick-payment-link.php">Quick Payment Link</a></li>
@@ -270,11 +163,34 @@
                                 class="fa-brands fa-linkedin"></i></a></li>
                 </ul>
             </div>
-            <div class="col-lg-3 col-md-6 pt-4">
-                <a href="https://www.bookmyad.com/become-affiliate.php" target="_blank"
-                    class="effect effect-default">Become an Affiliate
-                    <!-- &nbsp;<i class="fa fa-angle-right"></i> -->
-                </a>
+            <div class="col-lg-4 col-md-6">
+                <ul class="certi-list">
+                    <li>
+                        <div class="each-client hover-img">
+                            <img class="each-client-img img-fluid"
+                                src="assets/images/paid-cert-1.jpg" title="peesafe_logo">
+                        </div>
+                    </li>
+                    <li>
+                        <div class="each-client hover-img">
+                            <img class="each-client-img img-fluid"
+                                src="assets/images/paid-cert-2.jpg" title="shadowfax-logo">
+                        </div>
+                    </li>
+                    <li>
+                        <div class="each-client hover-img">
+                            <img class="each-client-img img-fluid"
+                                src="assets/images/paid-cert-3.jpg"
+                                title="redcliff life sciences_logo">
+                        </div>
+                    </li>
+                    <li>
+                        <div class="each-client hover-img">
+                            <img class="each-client-img img-fluid"
+                                src="assets/images/paid-cert-4.jpg" title="Chep_logo">
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -287,19 +203,19 @@
             </div>
         </div>
     </div>
-    <!-- <a href="tel:+918800334456" class="sticky-phone hidden-xs">
-        <p>Call Now<br>+918800334456</p>
+    <!-- <a href="tel:+918800337036" class="sticky-phone hidden-xs">
+        <p>Call Now<br>+918800337036</p>
         <span><i class="fa fa-phone"></i>
         </span>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=+918800334456&text=hi" class="whatsApp hidden-xs" target="_blank">
-        <p>WhatsApp<br>+918800334456</p>
+    <a href="https://api.whatsapp.com/send?phone=+918800337036&text=hi" class="whatsApp hidden-xs" target="_blank">
+        <p>WhatsApp<br>+918800337036</p>
         <span><img src="https://www.bookmyad.com/media/assets/images/whatsapp-icon.png" alt="phone" class="whts01"></span>
     </a> -->
 
     <ul class="contact-list hidden-md">
-        <li><a href="tel:+918800334456" class="ph-call"><i class="fa-solid fa-phone"></i> +91 8800334456</a></li>
-        <li><a href="https://api.whatsapp.com/send?phone=918800334456&amp;text=Hi%2C%0A%0AI%20want%20to%20book%20an%20ad%20in%20the%20newspaper"
+        <li><a href="tel:+918800337036" class="ph-call"><i class="fa-solid fa-phone"></i> +91 8800337036</a></li>
+        <li><a href="https://api.whatsapp.com/send?phone=918800337036&amp;text=Hi%2C%0A%0AI%20want%20to%20book%20an%20ad%20in%20the%20newspaper"
                 target="_blank" class="wh-app"><i class="fa-brands fa-whatsapp"></i> WhatsApp Us</a></li>
     </ul>
 
@@ -324,6 +240,8 @@
 <script src="assets/js/bootstrap.bundle.min.js"></script>
 
 <script src="assets/js/owl.carousel.js"></script>
+
+<!-- <script src='https://widgets.sociablekit.com/google-reviews/widget.js' async defer></script> -->
 
 
 <script type="text/javascript" src="assets/js/typer.min.js"></script>
